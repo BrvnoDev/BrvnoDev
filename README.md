@@ -100,7 +100,7 @@ I'm Bruno, a web development enthusiast currently studying programming analysis 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-valenzuela-fica)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-valenzuela-fica-513938366/)  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/kill_process.inc)  
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:Bruno.v2@protonmail.com)
 
